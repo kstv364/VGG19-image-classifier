@@ -37,7 +37,7 @@ lazy-object-proxy==1.4.3
 Markdown==3.2.2
 MarkupSafe==1.1.1
 mkl-service==2.3.0
-numpy==1.18.4
+numpy==1.22.0
 oauthlib==3.0.1
 opt-einsum==0+untagged.56.g2664021.dirty
 parso==0.7.0
